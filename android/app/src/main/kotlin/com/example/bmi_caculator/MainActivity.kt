@@ -1,4 +1,4 @@
-package tw.edu.kh.kihs.bmi_calculator
+package com.example.bmi_caculator
 
 import io.flutter.embedding.android.FlutterActivity
 
